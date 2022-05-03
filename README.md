@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring web technology
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web development project
-- 📫 How to reach me, mail me at parijat.millind@gmail.com
+- 📫 contact me at parijat.millind@gmail.com
 
 <!---
 parijat-millind/parijat-millind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
