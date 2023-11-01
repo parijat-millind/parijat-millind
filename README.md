@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @parijat-millind
 - 👀 I’m interested in exploring web technology
-- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web development project
 - 📫 contact me at parijat.millind@gmail.com
 
